@@ -1,1 +1,1 @@
-${responseCode}
+200
